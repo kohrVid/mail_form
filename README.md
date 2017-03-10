@@ -1,3 +1,4 @@
+Test
 ## MailForm
 
 [![Gem Version](https://fury-badge.herokuapp.com/rb/mail_form.png)](http://badge.fury.io/rb/mail_form)
